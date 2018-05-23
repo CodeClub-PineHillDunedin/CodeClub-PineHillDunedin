@@ -9,4 +9,4 @@
 
 ## Our story
 
-* [23rd May 2018](days/2018-05-23.md)
+* [23rd May 2018 - Rock Band](days/2018-05-23.md)
